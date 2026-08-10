@@ -1,9 +1,7 @@
 {
   "min_version": "0.4.1",
-  "latest_version": "0.4.1",
-  "download_url": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.1/Paperboy-0.4.1.zip",
-  "download_url_x86_64": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.1/Paperboy-0.4.1-intel.zip",
-  "download_dmg": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.1/Paperboy-0.4.1.dmg",
-  "download_dmg_x86_64": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.1/Paperboy-0.4.1-intel.dmg",
+  "latest_version": "0.4.2",
+  "download_url": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.2/Paperboy-0.4.2.zip",
+  "download_dmg": "https://github.com/amnike/paperboy-releases/releases/download/v0.4.2/Paperboy-0.4.2.dmg",
   "grace_seconds": 259200
 }
